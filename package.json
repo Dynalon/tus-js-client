@@ -1,5 +1,5 @@
 {
-  "name": "tus-js-client",
+  "name": "@dynalon/tus-js-client",
   "version": "1.8.0",
   "description": "A pure JavaScript client for the tus resumable upload protocol",
   "main": "lib.es5/index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tus/tus-js-client.git"
+    "url": "https://github.com/Dynalon/tus-js-client.git"
   },
   "keywords": [
     "tus",
